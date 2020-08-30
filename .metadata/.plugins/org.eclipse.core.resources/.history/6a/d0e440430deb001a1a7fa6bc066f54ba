@@ -25,7 +25,7 @@ public class Main {
 		    .build();
 		MongoClient mongoClient = MongoClients.create(settings);
 		MongoDatabase database = mongoClient.getDatabase("playerplusplus");	
-		MongoCollection collection = database.getCollection("games");
+		MongoCollection collection = database.getCollection("gamepageposts");
 		
 		FindIterable document = collection.find();
 		MongoCursor cursor = document.cursor();
