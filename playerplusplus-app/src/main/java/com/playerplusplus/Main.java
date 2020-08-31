@@ -31,6 +31,9 @@ public class Main {
 		MongoCursor cursor = document.cursor();
 		while(cursor.hasNext()) {
 			System.out.println(cursor.next());
+			
+			
+			//MY CHANGE - JACOB
 		}
 	}
 }
