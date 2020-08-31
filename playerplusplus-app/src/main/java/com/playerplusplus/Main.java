@@ -33,7 +33,6 @@ public class Main {
 			System.out.println(cursor.next());
 			
 			
-			//MY CHANGE - JACOB
 		}
 	}
 }
