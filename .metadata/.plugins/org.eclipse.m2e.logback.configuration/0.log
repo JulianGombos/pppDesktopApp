@@ -959,3 +959,103 @@
 2020-10-04 00:20:22,810 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-10-04 00:20:22,811 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-10-04 00:20:22,815 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:27:53,234 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-04 00:28:41,343 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.playerplusplus:playerplusplus-app:0.0.1-SNAPSHOT @ E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app\pom.xml.
+2020-10-04 00:28:41,600 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:28:41,608 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:28:41,613 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:28:41,617 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:29:33,351 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.playerplusplus:playerplusplus-app:0.0.1-SNAPSHOT @ E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app\pom.xml.
+2020-10-04 00:29:33,473 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:29:33,479 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:29:33,482 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:29:33,486 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:28,234 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.pom
+2020-10-04 00:31:28,296 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.playerplusplus:playerplusplus-app:0.0.1-SNAPSHOT @ E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app\pom.xml.
+2020-10-04 00:31:28,322 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.pom
+2020-10-04 00:31:28,355 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx/14/javafx-14.pom
+2020-10-04 00:31:28,396 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx/14/javafx-14.pom
+2020-10-04 00:31:28,439 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.pom
+2020-10-04 00:31:28,451 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.pom
+2020-10-04 00:31:28,504 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.pom
+2020-10-04 00:31:28,547 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.pom
+2020-10-04 00:31:28,583 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.pom
+2020-10-04 00:31:28,584 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.pom
+2020-10-04 00:31:28,621 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.jar
+2020-10-04 00:31:28,623 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.jar
+2020-10-04 00:31:28,655 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.jar
+2020-10-04 00:31:28,658 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14.jar
+2020-10-04 00:31:28,789 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-win.jar
+2020-10-04 00:31:28,796 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-win.jar
+2020-10-04 00:31:29,782 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-win.jar
+2020-10-04 00:31:29,807 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar
+2020-10-04 00:31:29,815 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-win.jar
+2020-10-04 00:31:29,838 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar
+2020-10-04 00:31:29,838 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar
+2020-10-04 00:31:29,858 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar
+2020-10-04 00:31:29,862 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar
+2020-10-04 00:31:29,886 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar
+2020-10-04 00:31:32,116 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar
+2020-10-04 00:31:32,138 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.jar
+2020-10-04 00:31:32,172 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.jar
+2020-10-04 00:31:32,182 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar
+2020-10-04 00:31:32,195 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-win.jar
+2020-10-04 00:31:32,206 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.jar
+2020-10-04 00:31:32,231 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14.jar
+2020-10-04 00:31:32,253 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-win.jar
+2020-10-04 00:31:32,483 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-win.jar
+2020-10-04 00:31:32,560 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-win.jar
+2020-10-04 00:31:32,941 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:32,948 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:32,949 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:32,953 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:34,066 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-sources.jar
+2020-10-04 00:31:34,292 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:34,297 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:31:34,302 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:34,306 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:31:34,630 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/14/javafx-controls-14-sources.jar
+2020-10-04 00:31:34,678 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-controls:14
+2020-10-04 00:31:34,684 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-controls:14:win
+2020-10-04 00:31:34,840 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-sources.jar
+2020-10-04 00:31:36,675 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/14/javafx-graphics-14-sources.jar
+2020-10-04 00:31:36,720 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-graphics:14
+2020-10-04 00:31:36,726 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-graphics:14:win
+2020-10-04 00:31:36,866 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-sources.jar
+2020-10-04 00:31:37,135 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/14/javafx-base-14-sources.jar
+2020-10-04 00:31:37,175 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-base:14
+2020-10-04 00:31:37,180 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-base:14:win
+2020-10-04 00:31:37,326 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:37,331 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:37,331 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:37,335 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:48,027 [Worker-24: Launching Executing install in E__eclipse_workspaces_PlayerPlusPlusApp_pppDesktopApp_playerplusplus-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app
+2020-10-04 00:31:48,028 [Worker-24: Launching Executing install in E__eclipse_workspaces_PlayerPlusPlusApp_pppDesktopApp_playerplusplus-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-10-04 00:31:49,175 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:49,180 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:31:49,181 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:31:49,185 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:32:42,947 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:32:42,952 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:32:42,954 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:32:42,959 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:33:39,966 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.playerplusplus:playerplusplus-app:0.0.1-SNAPSHOT @ E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app\pom.xml.
+2020-10-04 00:33:40,080 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:33:40,086 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:33:40,088 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:33:40,093 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:33:43,416 [Worker-25: Launching Executing install in E__eclipse_workspaces_PlayerPlusPlusApp_pppDesktopApp_playerplusplus-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app
+2020-10-04 00:33:43,416 [Worker-25: Launching Executing install in E__eclipse_workspaces_PlayerPlusPlusApp_pppDesktopApp_playerplusplus-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-10-04 00:33:46,028 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:33:46,033 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:33:46,034 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:33:46,037 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:34:31,211 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.playerplusplus:playerplusplus-app:0.0.1-SNAPSHOT @ E:\eclipse\workspaces\PlayerPlusPlusApp\pppDesktopApp\playerplusplus-app\pom.xml.
+2020-10-04 00:34:31,302 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:34:31,307 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:34:31,308 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:34:31,312 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-04 00:34:44,243 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:34:44,247 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-04 00:34:44,253 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-04 00:34:44,256 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
