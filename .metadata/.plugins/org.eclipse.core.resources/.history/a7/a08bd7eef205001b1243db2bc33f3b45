@@ -1,0 +1,85 @@
+package com.playerplusplus;
+
+import com.mongodb.*;
+import com.mongodb.client.*;
+
+import ch.qos.logback.classic.Level;
+import ch.qos.logback.classic.Logger;
+import ch.qos.logback.classic.LoggerContext;
+import org.slf4j.LoggerFactory;
+
+import javafx.*;
+import javafx.application.Application;
+import javafx.event.EventHandler;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.StackPane;
+import javafx.stage.Stage;
+
+
+public class Main extends Application {
+	
+	public static ConnectionString uri = new ConnectionString( "mongodb+srv://Hongee98:Pokemonmaster98@maincluster.vfms7.gcp.mongodb.net/test");
+	public static MongoClientSettings settings = MongoClientSettings.builder().applyConnectionString(uri).retryWrites(true).build();
+	public static MongoClient mongoClient = MongoClients.create(settings);
+	public static MongoDatabase database = mongoClient.getDatabase("playerplusplus");	
+	
+	public static void main(String args[]){
+		
+		launch(args);
+
+
+		MongoCollection collection = database.getCollection("games");
+		
+		FindIterable document = collection.find();
+		MongoCursor cursor = document.cursor();
+		while(cursor.hasNext()) {
+			System.out.println(cursor.next());
+			
+			
+		}
+	}
+	
+	public void start(Stage primaryStage) {
+		createLogger();
+		
+		StackPane root = new StackPane();
+	
+		Button button = new Button();
+		button.setText("Test");
+		button.addEventFilter(MouseEvent.MOUSE_CLICKED, eventHandler);
+		
+		Button button2 = new Button();
+		button2.setText("Button 2");
+		button2.addEventFilter(MouseEvent.MOUSE_CLICKED, eventHandler);
+		button2.setTranslateX(100);
+		
+		root.getChildren().add(button);
+		root.getChildren().add(button2);
+		
+		
+		Scene scene = new Scene(root,500,500);
+		primaryStage.setScene(scene);
+		primaryStage.setTitle("Desktop Player Plus Plus");
+		primaryStage.show();
+	}
+	
+	//Creating the mouse event handler 
+	EventHandler<MouseEvent> eventHandler = new EventHandler<MouseEvent>() { 
+	   public void handle(MouseEvent e) { 
+	      System.out.println("Hello World"); 
+	      System.out.println(e.getButton());
+	   } 
+	};   
+	
+
+	
+	
+	public static void createLogger() {
+		LoggerContext loggerContext = (LoggerContext) LoggerFactory.getILoggerFactory();
+		Logger rootLogger = loggerContext.getLogger("org.mongodb.driver");
+		rootLogger.setLevel(Level.ALL);
+	}
+}
